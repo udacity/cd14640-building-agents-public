@@ -17,7 +17,7 @@ pandas==2.1.4
 numpy==1.24.3
 
 # Environment and configuration
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 
 # Jupyter notebook dependencies
 jupyter==1.0.0
