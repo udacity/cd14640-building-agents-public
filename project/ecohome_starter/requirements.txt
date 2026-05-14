@@ -1,5 +1,5 @@
 # Core LangChain dependencies
-langchain==0.1.0
+langchain==0.3.30
 langchain-openai==0.0.5
 langchain-community==0.0.10
 langgraph==0.0.20
